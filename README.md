@@ -3,6 +3,10 @@
 Thanks for taking the time to contribute!
 You can start by reading our [Contribution guidelines](#contributing) first.
 
+## Contract
+```
+https://github.com/bboynam99/tombfinance-contracts
+```
 ## Setup
 
 Install the dependencies
